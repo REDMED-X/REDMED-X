@@ -4,7 +4,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REDMED-X&langs_count=4&line_height=35&theme=codeSTACKr" />  
 </p>
 
-## OperatorsKit CI
 
 
 <!--
