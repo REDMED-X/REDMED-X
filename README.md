@@ -1,8 +1,21 @@
-![REDMED-X’s GitHub stats](https://github-readme-stats.vercel.app/api?username=REDMED-X
-  &show_icons=true
-  &count_private=true
-  &theme=neon
-)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=REDMED-X
+      &count_private=true
+      &show_icons=true
+      &line_height=33
+      &theme=neon"
+    alt="REDMED-X’s GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=REDMED-X
+      &langs_count=4
+      &line_height=35
+      &theme=neon"
+    alt="Top Languages"
+  />
+</p>
+
 
 <!--
 **REDMED-X/REDMED-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
