@@ -1,19 +1,6 @@
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=REDMED-X
-      &count_private=true
-      &show_icons=true
-      &line_height=33
-      &theme=neon"
-    alt="REDMED-X’s GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=REDMED-X
-      &langs_count=4
-      &line_height=35
-      &theme=neon"
-    alt="Top Languages"
-  />
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=REDMED-X&count_private=true&show_icons=true&line_height=33&theme=transparent" alt="REDMED-X's GitHub Stats"  />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REDMED-X&langs_count=4&line_height=35&theme=transparent" />  
 </p>
 
 
