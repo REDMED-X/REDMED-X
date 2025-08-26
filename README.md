@@ -1,4 +1,8 @@
 # REDMED-X 
+
+## 🚀 Support the OperatorsKit
+If the OperatorsKit has been valuable to your red teaming engagements, by saving development time or enhancing your tradecraft, please consider sponsoring its continued development and help drive its next leap forward.
+
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=REDMED-X&count_private=true&show_icons=true&line_height=33&theme=codeSTACKr" alt="REDMED-X's GitHub Stats"  />  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REDMED-X&langs_count=4&line_height=35&theme=codeSTACKr" />  
