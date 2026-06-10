@@ -1,26 +1,5 @@
-# REDMED-X 
+# Western Tactics
 
-## 🚀 Support the OperatorsKit
-If the OperatorsKit has been valuable to your red teaming engagements, by saving development time or enhancing your tradecraft, please consider sponsoring its continued development and help drive its next leap forward.
+The official open-source home of **Western Tactics**. 
 
-<p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=REDMED-X&count_private=true&show_icons=true&line_height=33&theme=codeSTACKr" alt="REDMED-X's GitHub Stats"  />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REDMED-X&langs_count=4&line_height=35&theme=codeSTACKr" />  
-</p>
-
-
-
-<!--
-**REDMED-X/REDMED-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Discover our practical cyber security courses:** [westerntactics.com](https://westerntactics.com)
